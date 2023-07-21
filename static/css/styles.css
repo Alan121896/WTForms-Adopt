@@ -1,0 +1,61 @@
+/* .flash-messages {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.flash-messages li {
+    margin: 5px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 20px;
+} */
+
+body {
+    background-color: #f0f8ff; /* Light Blue */
+    color: #ffffff; /* White */
+}
+
+.container {
+    margin-top: 20px; /* Add some space at the top */
+}
+
+/* Styles for the header section */
+h1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* Styles for the lists */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Styles for the flash messages */
+.flash-messages {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f8d7da; /* Pinkish Red */
+    border: 1px solid #f5c6cb; /* Light Pink */
+    border-radius: 5px;
+}
+
+.flash-messages li {
+    margin: 5px 0;
+    color: #721c24; /* Dark Red */
+}
